@@ -1,12 +1,7 @@
 # Bayesian Logistic Regression for Heart Disease Prediction
 
 > Bachelor's thesis · **Mikhail Fedorov** · **University of Economics and Business / Faculty of Informatics and Statistics / Department of Data Analysis** · **2025**
-> Supervisor: **Ph.D. Tomáš Karel**
-
-# Bayesian Logistic Regression for Heart Disease Prediction
-
-> Bachelor's thesis · **[Author name]** · **[University / Faculty / Department]** · **[Year]**
-> Supervisor: **[Name]**
+> Supervisor: **Ph.D. Tomáš Karel
 
 ## Overview
 
