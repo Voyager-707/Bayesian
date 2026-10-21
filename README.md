@@ -135,10 +135,4 @@ Python · PyTorch · Pyro (NUTS/MCMC) · statsmodels · scikit-learn · pandas �
 - other priors could be compared (e.g. `Normal(0, 1)`, Laplace/horseshoe), along with posterior predictive checks (PPC);
 - pin library versions in `requirements.txt`.
 
-## Author
 
-**[Name]** — [email / GitHub / LinkedIn]
-
-## License
-
-**[e.g. MIT]**. The data is distributed under the license of the original dataset.
