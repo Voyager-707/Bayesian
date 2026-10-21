@@ -3,6 +3,11 @@
 > Bachelor's thesis · **Mikhail Fedorov** · **University of Economics and Business / Faculty of Informatics and Statistics / Department of Data Analysis** · **2025**
 > Supervisor: **Ph.D. Tomáš Karel**
 
+# Bayesian Logistic Regression for Heart Disease Prediction
+
+> Bachelor's thesis · **[Author name]** · **[University / Faculty / Department]** · **[Year]**
+> Supervisor: **[Name]**
+
 ## Overview
 
 This project compares **classical (frequentist)** and **Bayesian** logistic regression on a binary
@@ -107,7 +112,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install pyro-ppl torch pandas numpy scikit-learn statsmodels seaborn matplotlib jupyter
 ```
 
-1. Place `processed_heart_data.csv` next to the notebook.
+1. Obtain the dataset (see the **Data** section) and save it as `processed_heart_data.csv` next to the notebook.
 2. Run `jupyter notebook` and open `Large_dataset.ipynb`.
 3. Execute the cells in order (**Run All**). MCMC sampling with 4 chains may take a few minutes.
 
@@ -118,10 +123,10 @@ The notebook also runs in Google Colab: upload the CSV to the session and run th
 ```
 .
 ├── Large_dataset.ipynb          # main analysis (classical + Bayesian LR)
-├── processed_heart_data.csv     # preprocessed data
-├── README.md
-└── requirements.txt             # [recommended to add]
+└── README.md
 ```
+
+The dataset is not included in the repository (see the **Data** section for the source).
 
 ## Technologies
 
