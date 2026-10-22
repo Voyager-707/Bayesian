@@ -70,8 +70,6 @@ Test set: 46 observations.
 | F1-score  | 0.81 | 0.81 | 0.85 |
 | ROC-AUC   | 0.81 | 0.81 | 0.93 |
 
-> The results for informative priors are included in the notebook as a ready-made table
-> (they are not computed in this file). **[State which notebook/script produced them and how the priors were defined.]**
 
 Posterior coefficient estimates (non-informative priors, standardized features):
 
